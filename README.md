@@ -8,3 +8,4 @@ prone: /proneを可能にするパーミッションです。
 
 # Prone
 /prone: 匍匐状態を切り替えます。
+https://www.spigotmc.org/resources/prone.82869/
